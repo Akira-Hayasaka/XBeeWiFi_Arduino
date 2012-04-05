@@ -3,7 +3,7 @@ work in progress.
 
 XBeeWiFi library for Arduino.
 
-It uses
+It uses \n
 - Arduino SPI library 
 - Arduino Ethernet library
 
