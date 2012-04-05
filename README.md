@@ -1,7 +1,6 @@
 # XBeeWiFi_Arduino #
-work in progress.
-
-XBeeWiFi library for Arduino.
+XBeeWiFi library for Arduino, work in progress. 
+I am trying to port mbed version (http://mbed.org/users/okini3939/libraries/XBee/m6s6n8/docs/classXBeeWiFi.html) into arduino.
 
 It uses 
 
